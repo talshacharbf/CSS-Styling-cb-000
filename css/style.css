@@ -49,3 +49,8 @@ figcaption {
   color: black;
   text-decoration: underline;
 }
+
+#details a:active{
+  color: red;
+  text-decoration: none;
+}
